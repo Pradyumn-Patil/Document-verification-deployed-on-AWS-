@@ -2,9 +2,6 @@
 
 A curated list of resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs). 
 
-**Note 1: bolded positions are more important then others.**
-
-**Note 2: due to the novelty of the field, this list is under construction - contributions are welcome (thank you in advance!).** Please remember to use following convention: 
 * [Title of a publication / dataset / resource title](https://arxiv.org), \[[code/data/Website](https://github.com/example/test) ![](https://img.shields.io/github/stars/example/test.svg?style=social)\] 
   <details>
   <summary> List of authors <em>Conference/Journal name</em> Year </summary>
@@ -48,11 +45,12 @@ A curated list of resources for Document Understanding (DU) topic related to Int
 1. [Inspirations](#inspirations)
 
 
-# Introduction 
+# Project Introduction
 
-Documents are a core part of many businesses in many fields such as law, finance, and technology among others. Automatic understanding of documents such as invoices, contracts, and resumes is lucrative, opening up many new avenues of business. The fields of natural language processing and computer vision have seen tremendous progress through the development of deep learning such that these methods have started to become infused in contemporary document understanding systems. [source](https://arxiv.org/abs/2011.13534)
+Documents are a core part of many businesses in many fields such as law, finance and especially government.Most of the government bodies work on large scale and   Automatic understanding of documents such as invoices, contracts, and resumes is lucrative, opening up many new avenues of business. The fields of natural language processing and computer vision have seen tremendous progress through the development of deep learning such that these methods have started to become infused in contemporary document understanding systems. [source](https://arxiv.org/abs/2011.13534)
 
 
+## Literature Review
 ### Papers
 
 #### 2021 
