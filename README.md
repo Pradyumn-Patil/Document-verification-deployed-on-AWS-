@@ -136,7 +136,7 @@ Documents are a core part of many businesses in many fields such as law, finance
 
 1. [borb](https://github.com/jorisschellekens/borb) ![](https://img.shields.io/github/stars/jorisschellekens/borb.svg?style=social) - is a pure python library to read, write and manipulate PDF documents. It represents a PDF document as a JSON-like datastructure of nested lists, dictionaries and primitives (numbers, string, booleans, etc).
 1. [pawls](https://github.com/allenai/pawls) ![](https://img.shields.io/github/stars/allenai/pawls.svg?style=social) - PDF Annotations with Labels and Structure is software that makes it easy to collect a series of annotations associated with a PDF document
-1. [pdfplumber](https://github.com/jsvine/pdfplumber) ![](https://img.shields.io/github/stars/jsvine/pdfplumber.svg?style=social) - Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging
+ <!--- 1. [pdfplumber](https://github.com/jsvine/pdfplumber) ![](https://img.shields.io/github/stars/jsvine/pdfplumber.svg?style=social) - Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging
 1. [Pdfminer.six](https://github.com/pdfminer/pdfminer.six) ![](https://img.shields.io/github/stars/pdfminer/pdfminer.six.svg?style=social) - Pdfminer.six is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents. It focuses on getting and analyzing text data 
 1. [Layout Parser](https://github.com/Layout-Parser/layout-parser) ![](https://img.shields.io/github/stars/Layout-Parser/layout-parser.svg?style=social) - Layout Parser is a deep learning based tool for document image layout analysis tasks
 1. [Tabulo](https://github.com/interviewBubble/Tabulo) ![](https://img.shields.io/github/stars/interviewBubble/Tabulo.svg?style=social) - Table extraction from images
@@ -145,7 +145,7 @@ Documents are a core part of many businesses in many fields such as law, finance
 1. [PdfPig](https://github.com/UglyToad/PdfPig) ![](https://img.shields.io/github/stars/UglyToad/PdfPig.svg?style=social) - This project allows users to read and extract text and other content from PDF files. In addition the library can be used to create simple PDF documents containing text and geometrical shapes. This project aims to port PDFBox to C#
 1. [parsing-prickly-pdfs](https://porter.io/github.com/jsfenfen/parsing-prickly-pdfs) ![](https://img.shields.io/github/stars/jsfenfen/parsing-prickly-pdfs.svg?style=social) - Resources and worksheet for the NICAR 2016 workshop of the same name
 1. [pdf-text-extraction-benchmark](https://github.com/ckorzen/pdf-text-extraction-benchmark) ![](https://img.shields.io/github/stars/ckorzen/pdf-text-extraction-benchmark.svg?style=social) - PDF tools benchmark
-1. [Born digital pdf scanner](https://github.com/applicaai/digital-born-pdf-scanner) ![](https://img.shields.io/github/stars/applicaai/digital-born-pdf-scanner.svg?style=social) - checking if pdf is born-digital   
+1. [Born digital pdf scanner](https://github.com/applicaai/digital-born-pdf-scanner) ![](https://img.shields.io/github/stars/applicaai/digital-born-pdf-scanner.svg?style=social) - checking if pdf is born-digital   --->
 
 
 ## Conferences, workshops
@@ -267,7 +267,7 @@ Examples of a real business applications and data for Kleister datasets (The key
 </p>
 <br/><br/>
 
-#### Multimedia Online Flyers
+<!--- #### Multimedia Online Flyers
 
 An example of a commercial real estate flyer and  manually  entered  listing  information © ProMaker Commercial Real Estate LLC, © BrokerSavant Inc.
 
@@ -295,7 +295,7 @@ An example of a commercial real estate flyer and  manually  entered  listing  in
   </a>
 </p>
 <br/><br/>
-
+--->
 
 ## Document Layout Analysis
 
