@@ -1,6 +1,6 @@
-# Awesome Document Understanding [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+#  Document Understanding and verification [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs). 
+Resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs). 
 
 * [Title of a publication / dataset / resource title](https://arxiv.org), \[[code/data/Website](https://github.com/example/test) ![](https://img.shields.io/github/stars/example/test.svg?style=social)\] 
   <details>
